@@ -24,6 +24,6 @@ Some fun facts about the setup of this project include:
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * Designed and developed while listening to kis music like ["These Are My Glasses" by Laurie Berkner](https://www.youtube.com/watch?v=9dvl1oa5AVc&list=RD9dvl1oa5AVc&index=5&t=110s)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/leducon/leducon.github.io/issues/new).
 
 Thanks for reading!
