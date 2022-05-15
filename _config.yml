@@ -12,7 +12,7 @@ tagline:          'The happy read confluence'
 #description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 description:      'Together, we are building a community, or a <a href="https://leducon.github.io" target="_blank">village</a>'
 url:              https://leducon.github.io
-baseurl:          /
+baseurl:          https://leducon.github.io
 
 author:
   name:           'Mark Otto'
