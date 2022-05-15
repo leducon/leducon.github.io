@@ -13,10 +13,6 @@ The purpose of this club is to promote a love of literature and Chinese language
 
 In the initiative, we are building a community in the Minneapolis west suburb.
 
-There are currently a few links for LeDu:
-
-* [LeDu](https://leducon.github.io/)
-
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/leducon/leducon.github.io/issues/new).
 
 Thanks for reading!
