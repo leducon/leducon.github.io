@@ -6,10 +6,7 @@ categories: notification
 ---
 
 
-This is the first post to LeDu
-
-
-
+This is the first post on LeDu. Testing the site construction, format, visual and language rendering. 
 
 玛格莉特·怀丝·布朗（Margaret Wise Brown，1910年5月23日－1952年11月13日），美国儿童文学作家、绘本作家。代表作有《晚安，月亮》（Goodnight Moon）和《逃家小兔》（The Runaway Bunny）。
 
