@@ -17,6 +17,7 @@ This site is using Jekyll Hyde theme. It is a brazen two-column [Jekyll](http://
     - [Reverse layout](#reverse-layout)
   - [Development](#development)
   - [Author](#author)
+  - [Setup](#setup)
   - [License](#license)
 
 
@@ -108,9 +109,15 @@ Hyde has two branches, but only one is used for active development.
 
 ## Author
 
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+**David Xu**
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Designed and developed while listening to kis music like ["These Are My Glasses" by Laurie Berkner](https://www.youtube.com/watch?v=9dvl1oa5AVc&list=RD9dvl1oa5AVc&index=5&t=110s)
 
 
 ## License
