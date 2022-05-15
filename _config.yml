@@ -13,6 +13,7 @@ tagline:          'The happy read confluence'
 description:      'Together, we are building a community, or a <a href="https://leducon.github.io" target="_blank">village</a>'
 url:              https://leducon.github.io
 baseurl:          https://leducon.github.io
+homepage:         https://leducon.github.io
 
 author:
   name:           'Mark Otto'
