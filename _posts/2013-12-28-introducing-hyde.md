@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Event 3: outdoor reading and playground at St David's Center"
+title: "Event 3: outdoor reading and freeplay at St David's Center"
 date: 2022-05-15 21:00:00 -0600
 categories: [events, outdoor, picnic, freeplay]
 ---
