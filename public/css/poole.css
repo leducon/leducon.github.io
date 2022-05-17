@@ -435,13 +435,13 @@ a.pagination-item:hover {
   width: 75%;
   margin-top: 0;
   font-style: italic;
-  font-weight: bold;
+  font-weight: normal;
   padding-top:    0.2rem;
   padding-bottom: 0.2rem;
   text-align: right;
 }
 
-.post-categories a:link{
+.post-categories a{
   color: #515151;
   background-color: #fff;
 }
