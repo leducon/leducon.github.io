@@ -444,5 +444,9 @@ a.pagination-item:hover {
 .post-categories a,
 .post-categories a:link{
   color: #515151;
-  background-color: #fff;
+}
+
+.related-posts a,
+.related-posts a:link{
+  color: #515151;
 }
