@@ -441,7 +441,8 @@ a.pagination-item:hover {
   text-align: right;
 }
 
-a.post-categories:link{
+.post-categories a,
+.post-categories a:link{
   color: #515151;
   background-color: #fff;
 }
