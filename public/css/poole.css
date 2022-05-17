@@ -430,10 +430,14 @@ a.pagination-item:hover {
 }
 
 
-/* Added category line */
+/* Added category line by LeDu */
 .post-categories {
-  width: 90%;
-  font-weight: bold;
-  padding-bottom: 2rem;
+  width: 60%;
+  color: #515151;
+  background-color: #fff;
+  margin-top: 0;
+  font-weight: italic bold;
+  padding-top:    0.2rem;
+  padding-bottom: 0.2rem;
   text-align: right;
 }
