@@ -354,8 +354,8 @@ tbody tr:nth-child(odd) th {
 
 /* Related posts */
 .related {
-  padding-top: 0.2rem;
-  padding-bottom: 0.2rem;
+  padding-top: 0rem; /* Original 2rem */
+  padding-bottom: 0rem; /* Original 2rem */
   border-top: 1px solid #eee;
   font-size: small;
 }
@@ -450,6 +450,6 @@ a.pagination-item:hover {
 .related a,
 .related a:link{
   color: #515151;
-  font-size: medium;
+  /* font-size: medium; */
   font-weight: bold;
 }
