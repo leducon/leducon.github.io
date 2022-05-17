@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Introducing Hyde
+title: "Event 3: outdoor reading and playground at St David's Center"
+date: 2022-05-15 21:00:00 -0600
+categories: [events, outdoor, picnic, freeplay]
 ---
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
