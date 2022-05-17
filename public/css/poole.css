@@ -434,7 +434,8 @@ a.pagination-item:hover {
 .post-categories {
   width: 75%;
   margin-top: 0;
-  font-weight: italic;
+  font-style: italic;
+  font-weight: bold;
   padding-top:    0.2rem;
   padding-bottom: 0.2rem;
   text-align: right;
