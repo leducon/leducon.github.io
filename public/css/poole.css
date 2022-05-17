@@ -357,12 +357,10 @@ tbody tr:nth-child(odd) th {
   padding-top: 0rem; /* Original 2rem */
   padding-bottom: 0rem; /* Original 2rem */
   border-top: 1px solid #eee;
-  font-size: small;
 }
 .related-posts {
   padding-left: 0;
   list-style: none;
-  font-size: small;
 }
 .related-posts h3 {
   margin-top: 0;
