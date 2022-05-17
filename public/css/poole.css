@@ -432,5 +432,8 @@ a.pagination-item:hover {
 
 /* Added category line */
 .post-categories {
-  text-align: right
+  width: 90%;
+  font-weight: bold;
+  padding-bottom: 2rem;
+  text-align: right;
 }
