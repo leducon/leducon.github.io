@@ -357,6 +357,7 @@ tbody tr:nth-child(odd) th {
   padding-top: 2rem;
   padding-bottom: 2rem;
   border-top: 1px solid #eee;
+  font-size: medium;
 }
 .related-posts {
   padding-left: 0;
@@ -449,6 +450,6 @@ a.pagination-item:hover {
 .related-posts a,
 .related-posts a:link{
   color: #515151;
-  font-size: small;
-  font-weight: normal;
+  font-size: medium;
+  font-weight: bold;
 }
