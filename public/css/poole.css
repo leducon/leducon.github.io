@@ -450,6 +450,11 @@ a.pagination-item:hover {
 .related a,
 .related a:link{
   color: #515151;
-  font-size: small;
+  /* font-size: small; */
   font-weight: bold;
+}
+
+.related-posts h3 {
+  margin-top: 0;
+  font-size: medium;
 }
