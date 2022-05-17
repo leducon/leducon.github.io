@@ -2,7 +2,7 @@
 layout: post
 title: "Event 3: outdoor reading and playground at St David's Center"
 date: 2022-05-16 21:00:00 -0600
-categories: events
+categories: events outdoor afterparty
 ---
 
 
@@ -55,10 +55,11 @@ categories: events
 
 ### 赞
 
-- @七碗茶 提前踩点
+- @七碗茶 提前侦察聚会地点
 - St. David’s Center 有一个中型带围栏免费游乐场和林间空地
 - St. David’s Center： 3395 Plymouth Rd, Minnetonka, MN 55305 
 - 第一次图文记录
+- 会后的聚餐和自由时间让家庭之间有充分机会讨论交流
 
 ### 鉴
 
