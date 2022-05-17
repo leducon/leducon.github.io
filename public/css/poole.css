@@ -428,3 +428,9 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+
+/* Added category line */
+.post-categories {
+  text-align: right
+}
