@@ -9,7 +9,7 @@ categories: [events, outdoor, picnic, freeplay]
 
 - 日期：05/14/2022
 - 地点：St David's Center
-- 天气：晴和多云交替
+- 天气：晴和多云交替, 66F
 - 报名人数：10个家庭
 - 参加人数：10个家庭
 
