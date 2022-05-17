@@ -449,6 +449,6 @@ a.pagination-item:hover {
 .related-posts a,
 .related-posts a:link{
   color: #515151;
-  font-size: x-small;
+  font-size: small;
   font-weight: normal;
 }
