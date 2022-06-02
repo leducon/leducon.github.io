@@ -5,6 +5,8 @@ date: 2022-04-30 21:00:00 -0600
 categories: [events, indoor]
 ---
 
+### Event-2: 读书会记录
+
 时间：2022-4-30 Saturday 10-11
 地点：Plymouth Library meeting room
 参加人数：13个家庭，16个小孩
