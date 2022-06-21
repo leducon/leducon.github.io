@@ -11,6 +11,8 @@ categories: [events, outdoor, picnic, freeplay]
 - 日期:06/12/2022
 - 地点：Lions Park
 - 天气：Partly cloudy, little drizzle, ~70F
+- 报名人数：10个家庭
+- 参加人数：10个家庭
 
 
 ### 流程 
