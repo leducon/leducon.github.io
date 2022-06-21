@@ -91,5 +91,5 @@ categories: [events, outdoor, picnic, freeplay]
 | 摄影           | @Joey的夫人   |
 | 图文整合       | @钟钟   |
 | 设备         | @戎戎 |
-| 网站后勤现场协助       | @David        |
+| 网站后勤，现场协助       | @David        |
 
