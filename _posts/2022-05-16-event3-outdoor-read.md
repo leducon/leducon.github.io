@@ -75,6 +75,6 @@ categories: [events, outdoor, picnic, freeplay]
 | 文字记录       | @小门琳       |
 | 摄影           | @许洋多葱鱼   |
 | 图文整合       | @77爱吃海苔   |
-| 设备提         | @菜菜狐爱吃肉 |
+| 设备         | @菜菜狐爱吃肉 |
 | 网站后勤       | @David        |
 
