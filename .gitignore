@@ -2,6 +2,7 @@
 
 Gemfile*
 .jekyll-cache
+*.bak
 
 # Ignore docs files
 _gh_pages

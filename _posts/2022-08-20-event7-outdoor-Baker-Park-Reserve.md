@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Event 6: outdoor reading and freeplay at French Park"
-date: 2022-07-24 10:00:00 -0600
+title: "Event 7: outdoor reading and freeplay at Baker Park Reserve"
+date: 2022-08-20 10:00:00 -0600
 categories: [events, outdoor, picnic, freeplay]
 ---
 
 
-- 日期：2022-8-20
-- 地点：Baker Park Reserve
-- 天气：大晴天
+- 日期： 2022-8-20
+- 地点： Baker Park Reserve
+- 天气： 大晴天
 - 报名人数： 10个家庭
 - 参加人数： 10个家庭
 
